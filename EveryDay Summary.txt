@@ -1,0 +1,25 @@
+2018-7-31		Module change into Jar file
+
+2018-8-1		Android device and SDCard paths details
+				Distorted and Stretched View
+				Hash algorithm
+
+2018-8-3		Eclipse various question about YSDK
+
+2018-8-6		Java reflection mechanism
+
+2018-8-7		How to implement the native method
+
+2018-8-8		Native method in-depth study
+
+2018-8-16		Activity life cycle
+
+2018-8-29		Activity Launch Mode
+
+2018-8-30		Android IPC Mechanism
+
+2018-8-31		View Event System
+
+2018-9-19		Sdk Version Detailed
+
+2018-9-27		The problems of encapsulating okHttp
