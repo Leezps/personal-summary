@@ -23,3 +23,7 @@
 2018-9-19		Sdk Version Detailed
 
 2018-9-27		The problems of encapsulating okHttp
+
+2018-9-28		Design pattern --1(Create Pattern)
+
+2018-9-29		Design pattern --2(Create And Structure Pattern)
