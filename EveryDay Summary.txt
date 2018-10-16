@@ -20,6 +20,8 @@
 
 2018-8-31		View Event System
 
+2018-9-4		First known working principle of view
+
 2018-9-19		Sdk Version Detailed
 
 2018-9-27		The problems of encapsulating okHttp
@@ -31,3 +33,10 @@
 2018-9-30		Design pattern --3(Structure Pattern)
 
 2018-10-8		Design pattern --4(Structure Pattern)
+
+2018-10-9		Design pattern --5(Behavioral Pattern)
+
+2018-10-12		The similarties and differences of MQTT and Socket
+				The number of solutions on eclipse exceeds 65536
+				
+2018-10-16		Design pattern --6(Behavioral Pattern)

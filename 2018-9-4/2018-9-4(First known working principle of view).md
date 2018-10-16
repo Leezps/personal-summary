@@ -205,4 +205,3 @@ public static int getChildMeasureSpec(int spec, int padding, int childDimension)
 |**de/px**|EXACTLY<br>childSize|EXACTLY<br>childSize|EXACTLY<br>childSize|
 |**match_parent**|EXACTLY<br>parentSize|AT_MOST<br>parentSize|UNSPECIFIED<br>0|
 |**wrap_content**|AT_MOST<br>parentSize|AT_MOST<br>parentSize|UNSPECIFIED<br>0|
-
