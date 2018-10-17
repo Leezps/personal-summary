@@ -40,3 +40,5 @@
 				The number of solutions on eclipse exceeds 65536
 				
 2018-10-16		Design pattern --6(Behavioral Pattern)
+
+2018-10-17		Design pattern --7(J2EE Pattern)
