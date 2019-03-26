@@ -1,0 +1,19 @@
+{
+	"channels":[
+		{
+			"channelName":"金立",
+			"projectFileName":"commonjinli",
+			"projectPackageName":"com.zulong.seven.am"
+		},
+		{
+			"channelName":"oppo",
+			"projectFileName":"commonoppo",
+			"projectPackageName":"com.zulong.seven.nearme.gamecenter"
+		},
+		{
+			"channelName":"vivo",
+			"projectFileName":"commonvivo",
+			"projectPackageName":"com.zulong.eleven.vivo"
+		}
+	]
+}

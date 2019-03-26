@@ -42,3 +42,26 @@
 2018-10-16		Design pattern --6(Behavioral Pattern)
 
 2018-10-17		Design pattern --7(J2EE Pattern)
+
+2018-10-23		Android App Performance optimization
+
+2019-1-10		Overview of the binder
+
+2019-1-11		ServiceManager Manager
+
+2019-1-30		Use ant to write scripts for Android projects in eclipse
+				Java graphics and process execution dos command development
+
+2019-2-22		How to properly use R resource files as a third party
+
+2019-2-26		Activity life cycle interaction design
+
+2019-3-5		Eclipse to modify the Android default signature file
+
+2019-3-8		All kinds of download Service
+				Save image to system album And The role of FileProvider
+				
+2019-3-25		Request permission process of Android
+				
+2019-3-26		Floating window project
+

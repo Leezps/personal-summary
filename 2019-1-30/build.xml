@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     2019年1月22日 下午8:00:58                                                        
+
+     sdkdemo_test    
+     将渠道中的文件导入测试用例中
+                   
+     Leezp                                                                
+     ====================================================================== -->
+<project name="sdkdemo_test" default="channelsToTest">
+	<property name="channelsName" value="commonoppo"/>
+	<property name="packageName" value="com.zulong.seven.nearme.gamecenter"/>
+    <description>
+            将渠道中的文件导入测试用例中
+    </description>
+
+    <!-- ================================= 
+          target: channelsToTest
+          1.拷贝渠道项目中的assets到测试用例的assets文件夹中
+          2.拷贝渠道项目中的AndroidManifest_app.xml文件到AndroidManifest.xml文件中
+          3.拷贝渠道项目中的java文件到测试用例的包名中              
+         ================================= -->
+    <target name="channelsToTest" depends="changeFile" description="将渠道中的文件导入测试用例中">
+        <copy todir="assets">
+        	<fileset dir="../${channelsName}/assets">
+        		<include name="**/*"/>
+        	</fileset>
+        </copy>
+    	<copy file="../${channelsName}/AndroidManifest_app.xml" tofile="AndroidManifest.xml" overwrite="true"/>
+    	<copy todir="./src/com/zulong/df" overwrite="true">
+    		<fileset dir="../${channelsName}/javaSrc">
+    			<include name="**/*"/>
+    		</fileset>
+    	</copy>
+    </target>
+
+    <!-- - - - - - - - - - - - - - - - - - 
+          target: changeFile
+          1.改变project.properties文件中的依赖库
+          2.改变BaseActivity.java文件中的R文件                      
+         - - - - - - - - - - - - - - - - - -->
+    <target name="changeFile" depends="deleteFile">
+    	<replaceregexp byline="true" encoding="utf-8">
+    		<regexp pattern="../\w+"/>
+    		<substitution expression="../${channelsName}"/>
+    		<fileset file="project.properties"/>
+    	</replaceregexp>
+    	<replaceregexp byline="true" encoding="utf-8">
+    		<regexp pattern="import .+.R"/>
+    		<substitution expression="import ${packageName}.R"/>
+    		<fileset file="./src/com/zulong/df/BaseActivity.java"/>
+    	</replaceregexp>
+    </target>
+	
+	<!-- - - - - - - - - - - - - - - - - - 
+	          target: deleteFile
+	          1.删除assets文件夹中的文件
+	          2.删除AndroidManifest.xml文件
+	          3.删除BaseActivity.java之外的java文件                      
+	         - - - - - - - - - - - - - - - - - -->
+	<target name="deleteFile">
+		<delete verbose="true" includeemptydirs="true">
+			<fileset dir="assets">
+				<include name="**/*"/>
+			</fileset>
+		</delete>
+		<delete file="AndroidManifest.xml"/>
+		<delete>
+			<fileset dir="./src/com/zulong/df">
+				<exclude name="**/BaseActivity.java"/>
+			</fileset>
+		</delete>
+	</target>
+</project>
