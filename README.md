@@ -68,3 +68,5 @@
 2019-3-25		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-25/2019-3-25(Request%20permission%20process%20of%20Android).md">Android的请求权限过程</a>
 				
 2019-3-26		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-26/2019-3-26(Floating%20window%20project).md">悬浮窗项目</a>
+
+2019-3-27		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-27/2019-3-27(Nine%20ways%20to%20optimize%20your%20APK).md">九种优化APK的方式</a>
