@@ -65,3 +65,4 @@
 				
 2019-3-26		Floating window project
 
+2019-3-27		Nine ways to optimize your APK
