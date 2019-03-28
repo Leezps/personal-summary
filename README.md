@@ -70,3 +70,6 @@
 2019-3-26		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-26/2019-3-26(Floating%20window%20project).md">悬浮窗项目</a>
 
 2019-3-27		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-27/2019-3-27(Nine%20ways%20to%20optimize%20your%20APK).md">九种优化APK的方式</a>
+
+2019-3-28		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-28/2019-3-28(Dynamic%20loading%20of%20third-party%20applications%20-%20detailed%20pluginization%20architecture).md">动态加载第三方应用——插件化架构详解</a>
+
