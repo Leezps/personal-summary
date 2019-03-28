@@ -66,3 +66,7 @@
 2019-3-26		Floating window project
 
 2019-3-27		Nine ways to optimize your APK
+
+2019-3-28		Dynamic loading of third-party applications - detailed pluginization architecture
+
+
