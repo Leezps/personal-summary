@@ -73,3 +73,4 @@
 
 2019-3-28		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-28/2019-3-28(Dynamic%20loading%20of%20third-party%20applications%20-%20detailed%20pluginization%20architecture).md">动态加载第三方应用——插件化架构详解</a>
 
+2019-3-29		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-29/2019-3-29(Uncover%20the%20secret%20of%20the%20IOC%20injection%20framework).md">揭秘 IoC 注入框架</a>
