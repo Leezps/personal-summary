@@ -69,4 +69,6 @@
 
 2019-3-28		Dynamic loading of third-party applications - detailed pluginization architecture
 
+2019-3-29		Uncover the secret of the IOC injection framework
+
 
