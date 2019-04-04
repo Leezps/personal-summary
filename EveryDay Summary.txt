@@ -71,4 +71,6 @@
 
 2019-3-29		Uncover the secret of the IOC injection framework
 
+2019-4-4		Gradle configuration issue on AndroidStudio 3.1.2
+
 
