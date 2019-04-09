@@ -76,3 +76,5 @@
 2019-3-29		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-3-29/2019-3-29(Uncover%20the%20secret%20of%20the%20IOC%20injection%20framework).md">揭秘 IoC 注入框架</a>
 
 2019-4-4		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-4/2019-4-4(Gradle%20configuration%20issue%20on%20AndroidStudio%203.1.2).md">在AndroidStudio 3.1.2上的gradle配置问题</a>	
+
+2019-4-9		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-9/2019-4-9(Ali%20Sophix%20heat%20repair%20origin%20path%20-%20virtual%20machine%20layer%20method%20table%20replacement).md">阿里sophix热修复起源之路 — 虚拟机层方法表替换</a>	
