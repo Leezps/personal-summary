@@ -77,4 +77,4 @@
 
 2019-4-19		Another way to hot update your Android application- use Lua
 
-
+2019-4-26		The evolution of Android message bus--LiveData Bus
