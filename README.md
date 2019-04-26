@@ -81,4 +81,4 @@
 
 2019-4-19		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-19/2019-4-19(Another%20way%20to%20hot%20update%20your%20Android%20application-%20use%20Lua).md">另一种热更新方式更新Android应用——使用Lua</a>	
 
-2019-4-26		<a href="Android消息总线的演进之路——LiveDataBus详解">Android消息总线的演进之路——LiveDataBus详解</a>	
+2019-4-26		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-26/2019-4-26(The%20evolution%20of%20Android%20message%20bus--LiveData%20Bus).md">Android消息总线的演进之路——LiveDataBus详解</a>	
