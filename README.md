@@ -80,3 +80,5 @@
 2019-4-9		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-9/2019-4-9(Ali%20Sophix%20heat%20repair%20origin%20path%20-%20virtual%20machine%20layer%20method%20table%20replacement).md">阿里sophix热修复起源之路 — 虚拟机层方法表替换</a>	
 
 2019-4-19		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-19/2019-4-19(Another%20way%20to%20hot%20update%20your%20Android%20application-%20use%20Lua).md">另一种热更新方式更新Android应用——使用Lua</a>	
+
+2019-4-26		<a href="Android消息总线的演进之路——LiveDataBus详解">Android消息总线的演进之路——LiveDataBus详解</a>	
