@@ -81,5 +81,5 @@
 
 2019-4-28		Layout rendering process and principle——notes
 
-2019-5-8		Into the interface-oriented programming, combat multi-style Adapter architecture
+2019-5-7		Into the interface-oriented programming, combat multi-style Adapter architecture
 
