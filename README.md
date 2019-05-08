@@ -84,3 +84,5 @@
 2019-4-26		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-26/2019-4-26(The%20evolution%20of%20Android%20message%20bus--LiveData%20Bus).md">Android消息总线的演进之路——LiveDataBus详解</a>	
 
 2019-4-28		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-28/2019-4-28(Layout%20rendering%20process%20and%20principle%E2%80%94%E2%80%94notes).md">布局渲染流程与原理——笔记</a>
+
+2019-5-8		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-7/2019-5-7(Into%20the%20interface-oriented%20programming%2C%20combat%20multi-style%20Adapter%20architecture).md">走进面向接口编程，实战多样式Adapter架构</a>
