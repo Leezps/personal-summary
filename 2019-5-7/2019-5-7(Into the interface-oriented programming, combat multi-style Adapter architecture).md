@@ -55,10 +55,17 @@
 > —— 具体详情可参考该工程，并导入 AndroidStudio，解读对应代码文件，动手才行。
 
 > RViewAdapter.java 继承 RecyclerView.Adapter，重写该类函数
+> 
 > RViewHolder.java 继承 RecyclerView.ViewHolder，重写该类函数
+> 
 > ItemListener.java 列表中 item 的长按、点击事件接口
+> 
 > RViewCreate.java 列表中 item 的创建RViewHelper所需要的数据接口
+> 
 > RViewItem.java 列表中 item 需要继承的接口封装
+> 
 > RViewItemManager.java 管理多样式 item 的管理器
+> 
 > RViewHelper.java RecyclerView的管理类
+> 
 > SwipeRefreshHelper.java 下拉刷新的帮助类
