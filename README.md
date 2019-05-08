@@ -86,3 +86,5 @@
 2019-4-28		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-4-28/2019-4-28(Layout%20rendering%20process%20and%20principle%E2%80%94%E2%80%94notes).md">布局渲染流程与原理——笔记</a>
 
 2019-5-7		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-7/2019-5-7(Into%20the%20interface-oriented%20programming%2C%20combat%20multi-style%20Adapter%20architecture).md">走进面向接口编程，实战多样式Adapter架构</a>
+
+2019-5-8		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-8/2019-5-8(Eventbus%20principle%20and%20handwriting%20architecture).md">Eventbus原理详解与手写架构</a>
