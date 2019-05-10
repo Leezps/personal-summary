@@ -84,3 +84,5 @@
 2019-5-7		Into the interface-oriented programming, combat multi-style Adapter architecture
 
 2019-5-8		Eventbus principle and handwriting architecture
+
+2019-5-10		Instant network listening framework
