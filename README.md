@@ -90,3 +90,5 @@
 2019-5-8		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-8/2019-5-8(Eventbus%20principle%20and%20handwriting%20architecture).md">Eventbus原理详解与手写架构</a>
 
 2019-5-10		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-10/2019-5-10(Instant%20network%20listening%20framework).md">即时网络监听架构</a>	
+
+2019-5-13		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-13/2019-5-13(Network%20access%20framework).md">网络访问框架封装</a>
