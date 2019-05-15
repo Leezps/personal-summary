@@ -88,3 +88,6 @@
 2019-5-10		Instant network listening framework
 
 2019-5-13		Network access framework
+
+2019-5-15		Incremental updates using BSDiff
+
