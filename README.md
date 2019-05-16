@@ -94,3 +94,5 @@
 2019-5-13		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-13/2019-5-13(Network%20access%20framework).md">网络访问框架封装</a>
 
 2019-5-15		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-15/2019-5-15(Incremental%20updates%20using%20BSDiff).md">使用 BSDiff 实现增量更新</a>
+
+2019-5-16		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-16/2019-5-16(Component%20communication%20using%20a%20packaged%20interface).md">使用封装接口实现组件通信</a>	
