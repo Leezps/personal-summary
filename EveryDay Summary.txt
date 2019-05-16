@@ -91,3 +91,4 @@
 
 2019-5-15		Incremental updates using BSDiff
 
+2019-5-16		Component communication using a packaged interface
