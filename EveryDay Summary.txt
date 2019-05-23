@@ -92,3 +92,6 @@
 2019-5-15		Incremental updates using BSDiff
 
 2019-5-16		Component communication using a packaged interface
+
+2019-5-21		Perfect package dynamic application permission + APT technology to achieve a line of code to obtain permission application
+
