@@ -175,13 +175,9 @@ public int saveBitmapFile(byte[] bitmapBytes, String filePath, CompressResultLis
 
 > 以上是将图片保存到指定的缓存目录中，具体的结果如下所示：
 
-<iframe 
-    height=600 
-    width=250 
-    src="http://media.w3.org/2010/05/sintel/trailer.mp4" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
+
+> 视频地址：https://github.com/Leezps/personal-summary/blob/master/2019-5-28/videos/detailed_20190528.mp4
 
 > 从中我们可以看到 Pictures 中先没有照片，然后去看压缩文件夹里看有一张照片，我们将其删除了，后面使用应用拍照并压缩，发现 Pictures 中的照片 1.32 MB，压缩之后的照片大小为 66.80 KB，缩小了近10倍，从视觉上查看不出两张图片的区别，所以一些不需要图片很精准的应用就可以压缩图片，减少图片占用用户的磁盘以及内存的大小。
 
