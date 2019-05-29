@@ -175,7 +175,7 @@ public int saveBitmapFile(byte[] bitmapBytes, String filePath, CompressResultLis
 
 > 以上是将图片保存到指定的缓存目录中，具体的结果如下所示：
 
-![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
+![image](https://github.com/Leezps/personal-summary/blob/master/2019-5-28/images/detailed_4_1.gif)
 
 > 视频地址：https://github.com/Leezps/personal-summary/blob/master/2019-5-28/videos/detailed_20190528.mp4
 
