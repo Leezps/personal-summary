@@ -100,3 +100,5 @@
 2019-5-21		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-21/2019-5-21(Perfect%20package%20dynamic%20application%20permission%20%2B%20APT%20technology%20to%20achieve%20a%20line%20of%20code%20to%20obtain%20permission%20application).md">完美封装动态申请权限+APT技术实现一行代码搞定权限申请</a>	
 
 2019-5-28		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-28/2019-5-28(Detailed%20photo%20and%20image%20compression%20scheme).md">照片、图片压缩方案详解</a>
+
+2019-5-31		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-31/2019-5-31(The%20hot%20repair%20principle%20of%20Tinker).md">Tinker 热修复原理</a>
