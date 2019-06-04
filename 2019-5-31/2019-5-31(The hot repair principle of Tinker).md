@@ -463,11 +463,11 @@ public class ArrayUtils {
 > 
 > 结果如下所示：
 
-////////
+![image](https://github.com/Leezps/personal-summary/blob/master/2019-5-31/images/The_4_12.gif)
 
 > 另外一种方式，就是《阿里 sophix 热修复起源之路》的那一篇博文中，只将错误的 class 文件打包成 dex 文件，然后将这个资源文件放到 SDCard 根目录下，这样也可以实现热修复(所需资源在当前文件夹下的 needs_files\dex 目录下)，结果如下所示：
 
-/////////
+![image](https://github.com/Leezps/personal-summary/blob/master/2019-5-31/images/The_4_13.gif)
 
 > 这两种方式的对比，可以发现第一种的修复包占用空间非常大，而第二种的包只有几KB，因为第一种是将没有错的类也打包到修复包里了，而第二种只将有错误的类打包的修复包里，这是两者最大的区别。
 
