@@ -1,0 +1,3 @@
+com/leezp/tinker_principle_sample/MainActivity.class
+com/leezp/tinker_principle_sample/BaseActivity.class
+com/leezp/tinker_principle_sample/BaseApplication.class

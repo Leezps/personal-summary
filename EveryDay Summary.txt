@@ -96,3 +96,5 @@
 2019-5-21		Perfect package dynamic application permission + APT technology to achieve a line of code to obtain permission application
 
 2019-5-28		Detailed photo and image compression scheme
+
+2019-5-31		The hot repair principle of Tinker
