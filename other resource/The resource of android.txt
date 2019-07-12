@@ -1,0 +1,17 @@
+1. Android 源码查看地址:
+http://androidxref.com/
+
+2. 不同版本的TLS在Android中的支持情况(Socket 网络协议在Android不同版本的支持问题)
+
+本文要解决的两类问题：
+	1.在Android4.1-Android5.0的系统上启用TLSv1.1和TLSv1.2
+	2.java.lang.IllegalArgumentException: protocol TLSv1.1 is not supported
+	3.javax.net.ssl.SSLException: Connection closed by peer
+	
+https://blog.csdn.net/yanzhenjie1003/article/details/80202476
+
+https://stackoverflow.com/questions/33567596/android-https-web-service-communication-ssl-tls-1-2/33567745#33567745
+
+https://developer.android.google.cn/reference/javax/net/ssl/SSLSocket
+
+3. 
