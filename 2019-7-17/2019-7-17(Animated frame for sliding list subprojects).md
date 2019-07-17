@@ -434,3 +434,4 @@ public class LifeScrollView extends ScrollView {
 
 > 可以发现 LifeScrollView 与 LifeLinearLayout 以及自定义属性 app:discrollve_translation 等的存在，结果展示如下：
 
+![image](https://github.com/Leezps/personal-summary/blob/master/2019-7-17/images/animation_frame_4_5.gif)
