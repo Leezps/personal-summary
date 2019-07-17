@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.leezp.animation_framework.views.LifeScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <com.leezp.animation_framework.views.LifeLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="750dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/app_navigate"/>
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Hello World"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:background="#ff0000"
+                app:discrollve_alpha="true"
+                app:discrollve_scaleX="true"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="I'm super man"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:background="#00ff00"
+                app:discrollve_scaleY="true"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Are you?"
+                android:textSize="35sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                app:discrollve_fromBgColor="#ff0000"
+                app:discrollve_toBgColor="#ffff00"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="I Guess"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:background="#ffff00"
+                app:discrollve_translation="fromLeft|fromBottom"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="You are Hulk!"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:background="#00ffff"
+                app:discrollve_translation="fromRight"/>
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="......"
+                android:textSize="35sp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Yes, I'm right"
+                android:textSize="25sp"
+                android:textStyle="italic"
+                android:gravity="center"
+                android:background="#ff00ff"
+                app:discrollve_translation="fromTop"/>
+
+        </com.leezp.animation_framework.views.LifeLinearLayout>
+
+    </com.leezp.animation_framework.views.LifeScrollView>
+
+</LinearLayout>
