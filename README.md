@@ -104,3 +104,5 @@
 2019-5-31		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-5-31/2019-5-31(The%20hot%20repair%20principle%20of%20Tinker).md">Tinker 热修复原理</a>
 
 2019-7-17		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-7-17/2019-7-17(Animated%20frame%20for%20sliding%20list%20subprojects).md">滑动列表中不同子项目实现不同动画效果</a>
+
+2019-11-20		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-11-20/2019-11-20(Package%20request%20permissions).md">权限封装</a>
