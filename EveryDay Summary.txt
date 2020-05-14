@@ -101,4 +101,6 @@
 
 2019-7-17		Animated frame for sliding list subprojects
 
+2019-11-20		Permission Package
+
 2020-2-18		Android Gradle research - 1
