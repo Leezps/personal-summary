@@ -100,3 +100,5 @@
 2019-5-31		The hot repair principle of Tinker
 
 2019-7-17		Animated frame for sliding list subprojects
+
+2020-2-18		Android Gradle research - 1
