@@ -108,3 +108,5 @@
 2019-11-20		<a href="https://github.com/Leezps/personal-summary/blob/master/2019-11-20/2019-11-20(Package%20request%20permissions).md">权限封装</a>
 
 2020-2-18               <a href="https://github.com/Leezps/personal-summary/blob/master/2020-2-18/2020-2-18(Android%20Gradle%20research-1).md">Android Gradle 研究<一></a>
+
+2020-6-8		<a href="https://github.com/Leezps/personal-summary/blob/master/2020-6-5/2020-6-5(Android%20Gradle%20research-2-Offline%20Gradle%20running%20environment%20of%20Android%20project).md">Android Gradle 研究-2-Android 工程的离线 Gradle 运行环境</a>
