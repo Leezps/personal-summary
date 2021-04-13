@@ -1,4 +1,4 @@
-2018-7-31		Module change into Jar file
+﻿2018-7-31		Module change into Jar file
 
 2018-8-1		Android device and SDCard paths details
 				Distorted and Stretched View
@@ -106,3 +106,5 @@
 2020-2-18		Android Gradle research - 1
 
 2020-6-5		Android Gradle research - 2 - Offline Gradle running environment of Android project
+
+2021-4-13		Invalid setting signingconfig in debug mode for productflavors
