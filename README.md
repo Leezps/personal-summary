@@ -110,3 +110,5 @@
 2020-2-18               <a href="https://github.com/Leezps/personal-summary/blob/master/2020-2-18/2020-2-18(Android%20Gradle%20research-1).md">Android Gradle 研究<一></a>
 
 2020-6-5		<a href="https://github.com/Leezps/personal-summary/blob/master/2020-6-5/2020-6-5(Android%20Gradle%20research-2-Offline%20Gradle%20running%20environment%20of%20Android%20project).md">Android Gradle 研究-2-Android 工程的离线 Gradle 运行环境</a>
+
+2021-4-13		<a href="https://github.com/Leezps/personal-summary/blob/master/2021-4-13/2021-4-13(Invalid%20setting%20signingconfig%20in%20debug%20mode%20for%20productflavors).md">build.gradle 的 productFlavors 设置 signingConfig 在 Debug 模式下无效问题</a>
